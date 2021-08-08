@@ -2,7 +2,7 @@
 #find 2 numners form list whos product is equal to givn number list
 #list of numbers to check
 checknum = int(input('Product = '))
-checklist = [2,4,3,5,6]
+checklist = int(input('Insert values with comma "," sepration'))
 rhough=[]
 result=[]
 for i in list(checklist):
